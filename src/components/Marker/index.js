@@ -1,5 +1,5 @@
 import React from 'react';
-import './index.css';
+import './index.scss';
 
 const Marker = (props: any) => {
     const { name, id, type, showDealer,  showSpringFree} = props;
